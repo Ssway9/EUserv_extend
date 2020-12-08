@@ -34,4 +34,4 @@ PASSWORD: 第一个账户密码,第二个账户密码
 
 hostloc-auto-get-points: https://github.com/inkuang/hostloc-auto-get-points  MIT License
 
-随便改点什么
+随便改点什么呢
